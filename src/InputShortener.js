@@ -80,7 +80,7 @@ class InputShortener extends Component{
             <div>
                 <input
                     type="text"
-                    placeholder="Paste a link to shorten it"
+                    placeholder="Enter a link to shorten it"
                     id="inputUrl"
                     name="inputUrl"
                     value={this.state.inputUrl} 
@@ -95,7 +95,7 @@ class InputShortener extends Component{
             <div>
             <input
                     type="text"
-                    placeholder="Paste a link to shorten it"
+                    placeholder="shorten link"
                     id="genLink"
                     name="genLink"
                     value={this.state.genLink} 
