@@ -1,9 +1,9 @@
 #For Access the URL-SHORTEN-APP from github link
-First, go to the github repository of the project use the link which is provided()
+First, go to the github repository of the project use the link which is provided(https://github.com/AshwiniShebe/LinkShortenerSource.git).
 
 Once you have found the project, click on the "Code" button on the top right of the page. This will open a dropdown menu where you can select the option to "Download ZIP" or copy the URL of the repository.
 
-If you choose to download the ZIP file, extract the contents to a directory on your computer. If you copied the URL, then you can use git to clone the repository to your computer using the command git clone <repository url>.
+If you choose to download the ZIP file, extract the contents to a directory on your computer. If you copied the URL, then you can use git to clone the repository to your computer using the command git clone (https://github.com/AshwiniShebe/LinkShortenerSource.git).
 
 Once you have the project on your computer, open your command prompt or terminal and navigate to the project directory using the "cd" command.
 
